@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IsPackable>true</IsPackable>
+    <PackageId>Axolotl</PackageId>
+    <Title>Axolotl</Title>
+    <PackageType>Dependency</PackageType>
+    <Description>Initial Axolotl library package.</Description>
+  </PropertyGroup>
+
+</Project>
